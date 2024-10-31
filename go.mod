@@ -11,7 +11,7 @@ require (
 	github.com/magefile/mage v1.15.0
 	github.com/rs/zerolog v1.33.0
 	github.com/spf13/cobra v1.8.1
-	github.com/spf13/viper v1.20.0-alpha.5
+	github.com/spf13/viper v1.20.0-alpha.6
 	sigs.k8s.io/controller-runtime v0.18.5
 )
 
